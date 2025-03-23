@@ -1,0 +1,14 @@
+.mainContainer {
+  background-color: "#F7EEE9";
+}
+.logo {
+  height: 30px;
+  width: 90px;
+}
+.text {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.notification_container {
+  background-color: "#00659F";
+}
